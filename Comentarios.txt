@@ -1,0 +1,2 @@
+Mis comentarios sobre git:
+1.- Buena herramienta de control de versiones
